@@ -1,0 +1,8 @@
+{
+  "name": "Bismillah Bag Portal - Premium China Collection",
+  "description": "বিসমিল্লাহ ব্যাগ পোর্টাল - বাংলাদেশের সেরা অনলাইন শপ শুধুমাত্র প্রিমিয়াম কোয়ালিটি মেয়েদের চাইনা ব্যাগের জন্য।",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
